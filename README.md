@@ -10,17 +10,10 @@ Welcome to my personal portfolio website! This site showcases my skills, experie
 
 ## Featured Projects
 
-- **Run Buddy**  
-  A responsive landing page for fitness coaching built with HTML5, CSS3, and JavaScript.  
-  [Live Demo](https://apereira07.github.io/run-buddy/)
-
-- **Fitness Tracker**  
-  Full-stack fitness tracker application using Java and SQLite, offering both GUI and CLI interfaces.  
-  [GitHub Repository](https://github.com/APereira07/FitnessTracker)
-
-- **ToDo List App**  
-  Java-based task management application demonstrating object-oriented design, file/database integration, and UI/UX considerations.  
-  [GitHub Repository](https://github.com/APereira07/ToDoListApp)
+- **Healthcare Appointment Management System**
+  A group project built with Spring Boot, PostgreSQL, and JWT authentication; includes RESTful APIs with pagination and filtering, role-based access (Admin, Provider, Patient), Dockerized deployment, and a GitHub Actions CI/CD pipeline.
+  [GitHub Repository](https://github.com/APereira07/healthcare-appointment-system)
+  ![Healthcare Thumbnail](assets/healthcare-appointment-system-thumbnail.svg)
 
 ## Technologies Used
 
@@ -28,5 +21,3 @@ Welcome to my personal portfolio website! This site showcases my skills, experie
 - **Backend / Apps:** Java, SQLite  
 - **Version Control:** Git, GitHub  
 - **Tools:** IntelliJ IDEA, Boxicons
-
-
