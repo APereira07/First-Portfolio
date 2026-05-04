@@ -59,6 +59,11 @@
   }
 }
 
+/* Ensure Skills cards match the site's color theme for consistency */
+.skills__card {
+  background-color: var(--container-color);
+}
+
 /*base*/
 
 *{
