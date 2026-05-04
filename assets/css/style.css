@@ -53,6 +53,13 @@
     }
 }
 
+/* Ensure 2-column layout for Skills on medium+ screens */
+@media screen and (min-width: 768px) {
+  .skills__container.grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 /*base*/
 
 *{
