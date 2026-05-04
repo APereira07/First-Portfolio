@@ -36,6 +36,11 @@
     --z-modal: 1000;
 }
 
+/* Remove certain sections for job-focused portfolio (hidden by CSS) */
+#highlights, #experience { display: none !important; }
+#work .work__container > .work__card:first-child,
+#work .work__container > .work__card:nth-child(2),
+#work .work__container > .work__card:nth-child(3) { display: none !important; }
 @media screen and (min-width: 968px) {
     :root {
     --biggest-font-size: 2.5rem;
@@ -774,7 +779,7 @@ img {
     background-color: hsl(var(--second-hue), 8%, 20%);
 }
 
-        /* Light/Dark Mode */
+/* Light/Dark Mode */
 .change-theme {
     font-size: 1.25rem;
     cursor: pointer;
