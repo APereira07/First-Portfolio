@@ -1,29 +1,38 @@
 # Andres Pereira Portfolio
 
-Welcome to my personal portfolio website! This site showcases my skills, experience, and projects as a software developer. It includes:
+Hi, I'm Andres Pereira — Orlando, FL. Software Developer with 4+ years of experience focusing on secure, scalable full-stack apps.
 
-- Professional Summary: 4+ years of software development experience. Recently graduated with a B.A.S. in Computing Technology from Valencia College (May 2026). Proficient in building full-stack apps using Java, React, and PostgreSQL; strong backend and SQL focus; SDLC experience.
-
-- **Home Section:** A brief introduction and a downloadable resume.  
-- **About Section:** Background, experience, and personal interests.  
-- **Skills Section:** Frontend and backend development abilities.  
-- **Projects Section:** Recent works with screenshots, descriptions, and links to demos or GitHub repositories.  
-- **Contact Section:** A contact form and links to my social media profiles.
-
-## Featured Projects
-
-- **Healthcare Appointment Management System**
-  A group project built with Spring Boot, PostgreSQL, and JWT authentication; includes RESTful APIs with pagination and filtering, role-based access (Admin, Provider, Patient), Dockerized deployment, and a GitHub Actions CI/CD pipeline.
-  [GitHub Repository](https://github.com/APereira07/healthcare-appointment-system)
-  ![Healthcare Thumbnail](assets/healthcare-appointment-system-thumbnail.svg)
-
-## Technologies Used
-
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend / Apps:** Java, SQLite  
-- **Version Control:** Git, GitHub  
-- **Tools:** IntelliJ IDEA, Boxicons
+Download CV: assets/pdf/AndresResume2026.pdf
 
 ## Education
 - Valencia College, Orlando, FL — B.A.S. in Computing Technology & Software Development, May 2026
 - University of Central Florida — Coding Bootcamp Certification
+
+## Projects
+- Orlando Energy ONE — Full-Stack Web Application (Capstone). Tech: Next.js/React, Supabase/PostgreSQL; RBAC/RLS; documentation. Repo: https://github.com/jojodecarlos/EnergyOne/tree/main/utility-dashboard
+- Healthcare Appointment Management System — JWT authentication, RBAC, REST APIs with pagination, Docker deployment, CI/CD
+- Fitness Tracker DMS — CRUD with SQLite; GUI/CLI; validation
+
+## Technologies Used
+- Frontend: HTML5, CSS3, JavaScript, React, Next.js
+- Backend: Java, PostgreSQL, Supabase
+- Tools: Git, GitHub Actions, Docker, Maven
+- Concepts: REST API, JWT Authentication, RBAC, CI/CD, Exception Handling, Row-Level Security (RLS)
+
+## Experience
+- Patient Care Advocate, Cigna Express-Scripts (07/2021 – Present)
+  - Resolved 50+ client inquiries daily; maintained 95% satisfaction
+  - Reduced resolution time by 10% through process improvements
+  - HIPAA-compliant data handling with secure workflows
+- Inventory Associate, CarMax (01/2017 – 06/2021)
+  - Managed $1M+ inventory; improved tracking accuracy by 15%
+  - Audit/compliance improvements and loss reduction through documentation
+
+Awards:
+- Dean’s List | 3x Top Quarterly Performer | Top 5 metrics
+
+Languages:
+- English, Spanish, Portuguese
+
+Notes:
+- Resume and project assets are stored in the repo for easy access.
