@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio website! This site showcases my skills, experience, and projects as a software developer. It includes:
 
+- Professional Summary: 4+ years of software development experience. Recently graduated with a B.A.S. in Computing Technology from Valencia College (May 2026). Proficient in building full-stack apps using Java, React, and PostgreSQL; strong backend and SQL focus; SDLC experience.
+
 - **Home Section:** A brief introduction and a downloadable resume.  
 - **About Section:** Background, experience, and personal interests.  
 - **Skills Section:** Frontend and backend development abilities.  
@@ -21,3 +23,7 @@ Welcome to my personal portfolio website! This site showcases my skills, experie
 - **Backend / Apps:** Java, SQLite  
 - **Version Control:** Git, GitHub  
 - **Tools:** IntelliJ IDEA, Boxicons
+
+## Education
+- Valencia College, Orlando, FL — B.A.S. in Computing Technology & Software Development, May 2026
+- University of Central Florida — Coding Bootcamp Certification
