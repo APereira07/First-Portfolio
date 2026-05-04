@@ -38,9 +38,8 @@
 
 /* Remove certain sections for job-focused portfolio (hidden by CSS) */
 #highlights, #experience { display: none !important; }
-#work .work__container > .work__card:first-child,
-#work .work__container > .work__card:nth-child(2),
-#work .work__container > .work__card:nth-child(3) { display: none !important; }
+/* Keep only featured work visible via CSS selectors if needed later */
+#work .work__container > .work__card { display: block !important; }
 @media screen and (min-width: 968px) {
     :root {
     --biggest-font-size: 2.5rem;
