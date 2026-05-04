@@ -207,12 +207,24 @@ img {
 
         /* Active Link */
 .active-link {
-    background: linear-gradient(180deg, 
-                hsla(var(--first-hue), var(--sat), var(--lig), 1),
-                hsla(var(--first-hue), var(--sat), var(--lig), .2)
+    /* toned-down active highlight to avoid glow on logos */
+    background: linear-gradient(180deg,
+                hsla(var(--first-hue), var(--sat), var(--lig), .15),
+                hsla(var(--first-hue), var(--sat), var(--lig), .05)
                 );
-    box-shadow: 0 0 16px hsla(var(--first-hue), var(--sat), var(--lig), .4);
+    box-shadow: none;
     color: var(--title-color);
+}
+
+/* Ensure the logo does not glow or accumulate background when scrolling */
+.nav__logo {
+    box-shadow: none !important;
+    background: transparent !important;
+}
+
+/* Reduce header glow on scroll to a minimal shadow or none */
+.scroll-header {
+    box-shadow: none;
 }
 
         /* Change Background Header */
